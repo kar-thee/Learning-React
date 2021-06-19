@@ -1,0 +1,26 @@
+.timers{
+    color: blueviolet;
+    background-color: chartreuse;
+    border-radius: 50%;
+    width: max-content;
+    margin: auto;
+}
+
+#h3{
+    padding: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+#span{
+    text-align: center;
+}
+
+body{
+    background-color:grey;
+    font-size: larger;
+    font-weight: 300;
+    color: ghostwhite;
+}
