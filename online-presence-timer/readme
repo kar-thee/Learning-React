@@ -1,3 +1,6 @@
 this is a mini project to determine your online presence , i just started simple idea...
 
 I used ComponentDidMount life cycle method to run a time interval function which will change the state from (x) to (x+1) every second ....
+
+
+App-Url :  https://react-ktp2s7.stackblitz.io/
