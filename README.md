@@ -1,0 +1,6 @@
+# Learning-React
+Learning React by doing....
+
+
+I started applying all  React-theory-part I learnt to build Ui components....
+I am learning React by doing projects and building mini tools or projects
