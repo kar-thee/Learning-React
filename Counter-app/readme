@@ -1,0 +1,7 @@
+this is simple counter application that can be seen in shopping cart 
+
+The counter changes its state (count value) according to the onClick event of clicking a button...
+
+App Url : https://learning-react-counter-vtc35n.stackblitz.io
+
+Editor Url : https://stackblitz.com/edit/learning-react-counter-vtc35n?
