@@ -1,0 +1,21 @@
+h1,
+h6 {
+  font-family: Lato;
+  text-align: center;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  background:grey;
+}
+
+#total {
+  background-color: lightgrey;
+  width: 20%;
+  padding: 10px;
+  margin: 53px 40%;
+  border:2px solid rgb(97, 95, 95));
+  border-radius: 10%;
+}

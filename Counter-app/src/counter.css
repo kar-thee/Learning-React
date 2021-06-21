@@ -1,0 +1,12 @@
+#count,
+#buttons {
+  text-align: center;
+  font-size: 4rem;
+  color: violet;
+}
+
+#buttons button {
+  margin-right: 10px;
+  font-size: 2rem;
+  background-color: goldenrod;
+}
